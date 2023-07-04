@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modulef4-test-june/static/css/main.073c9b0a.css",
+    "main.js": "/Modulef4-test-june/static/js/main.b3dff514.js",
+    "index.html": "/Modulef4-test-june/index.html",
+    "main.073c9b0a.css.map": "/Modulef4-test-june/static/css/main.073c9b0a.css.map",
+    "main.b3dff514.js.map": "/Modulef4-test-june/static/js/main.b3dff514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b3dff514.js"
+  ]
+}
